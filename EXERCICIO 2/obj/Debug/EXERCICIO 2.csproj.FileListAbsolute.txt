@@ -1,0 +1,8 @@
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\bin\Debug\EXERCICIO 2.exe.config
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\bin\Debug\EXERCICIO 2.exe
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\bin\Debug\EXERCICIO 2.pdb
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\obj\Debug\EXERCICIO 2.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\obj\Debug\EXERCICIO 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\obj\Debug\EXERCICIO 2.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\obj\Debug\EXERCICIO 2.exe
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\EXERCICIO 2\obj\Debug\EXERCICIO 2.pdb

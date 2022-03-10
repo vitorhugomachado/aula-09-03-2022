@@ -1,0 +1,8 @@
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\obj\Debug\Facec.Exercicio.Lista.Dois.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\obj\Debug\Facec.Exercicio.Lista.Dois.csproj.SuggestedBindingRedirects.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\obj\Debug\Facec.Exercicio.Lista.Dois.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\bin\Debug\Facec.Exercicio.Lista.Dois.exe.config
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\bin\Debug\Facec.Exercicio.Lista.Dois.exe
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\bin\Debug\Facec.Exercicio.Lista.Dois.pdb
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\obj\Debug\Facec.Exercicio.Lista.Dois.exe
+C:\Users\facec.lab04\source\repos\Facec.Exercicios.Lista.Dois\Facec.Exercicio.Lista.Dois\obj\Debug\Facec.Exercicio.Lista.Dois.pdb
